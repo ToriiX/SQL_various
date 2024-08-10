@@ -14,7 +14,7 @@ PORTLAND BIKE RENTAL:
 4. Manipulate data
 5. Export new table
 6. Upload to Tableau Public desktop software
-7. When in Tableau, I created an additional column where I categorized the data as either collected on a weekday or the weekend.
+7. When in Tableau, I created an additional column where I categorized the data as either collected on a weekday or in the weekend.
   I used the following formula:
   IF [weekday] < 1 THEN 'weekend'
   ELSEIF  [weekday] > 5 THEN 'weekend'
