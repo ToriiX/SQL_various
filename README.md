@@ -23,7 +23,9 @@ PORTLAND BIKE RENTAL:
 
 ### View dashboard and explore the data [here](https://public.tableau.com/app/profile/tori.robinson/viz/PortlandBikeRental/Dashboard1)
 
-SQL CODE: 
+### SQL CODE: 
+
+
 create DATABASE bike_rental_data;
 
 
