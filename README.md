@@ -6,11 +6,11 @@ PORTLAND BIKE RENTAL:
 
 
 
-
+### Process step by Step:
 
 1. Create database in PostgreSQL
-2. Create tables
-3. Upload tables
+2. Create tables in PostgreSQL
+3. Import csv-files with tables
 4. Manipulate data
 5. Export new table
 6. Upload to Tableau Public desktop software
@@ -21,7 +21,7 @@ PORTLAND BIKE RENTAL:
   ELSE 'weekday' END
 8. I created a dashboard which can be filtered by clicking on the various categories such as "year", "season" etc. to explore the data
 
-View dashboard and explore the data [here](https://public.tableau.com/app/profile/tori.robinson/viz/PortlandBikeRental/Dashboard1)
+### View dashboard and explore the data [here](https://public.tableau.com/app/profile/tori.robinson/viz/PortlandBikeRental/Dashboard1)
 
 SQL CODE: 
 create DATABASE bike_rental_data;
