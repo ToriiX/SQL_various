@@ -1,5 +1,13 @@
 PORTLAND BIKE RENTAL:
 
+
+
+![Skjermbilde 2024-08-10 201121](https://github.com/user-attachments/assets/432ce6d0-da65-46c0-a0dd-28183f83ae18)
+
+
+
+
+
 1. Create database in PostgreSQL
 2. Create tables
 3. Upload tables
