@@ -13,7 +13,7 @@ PORTLAND BIKE RENTAL:
   ELSE 'weekday' END
 8. I created a dashboard which can be filtered by clicking on the various categories such as "year", "season" etc. to explore the data
 
-View dashboard [here]("https://public.tableau.com/app/profile/tori.robinson/viz/PortlandBikeRental/Dashboard1")
+View dashboard [here](https://public.tableau.com/app/profile/tori.robinson/viz/PortlandBikeRental/Dashboard1)
 
 SQL CODE: 
 create DATABASE bike_rental_data;
